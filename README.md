@@ -19,6 +19,13 @@
 ### **Personal Email 2:** *kherenngcsharp2004@gmail.com*
 ### **Portfolio:** [Work in progress!]
 
+## ✨ **More About Me ** ✨
+### - 🖥️ I'm a huge fan of animation. My current personal projects include an animatic featuring original characters.
+### - 🎮 I'm also an occasional gamer. The process of designing, programming, and producing an impactful videogame is one of the many things that got me into Computer Science.
+### - 🎨 My artistic interests include visual arts--especially digital art, music, singing, choreography, theatrical performance, voice acting, and story-writing.
+### - 📜 I have a soft spot for history, whether it is biblical, mythological, philosophical, or world history. Learning the history of Computer Science certainly made me more fascinated by it!
+### - ☕ I drink coffee like my life depends on it.
+
 <!--
 **gonzalkn-jpg/gonzalkn-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
