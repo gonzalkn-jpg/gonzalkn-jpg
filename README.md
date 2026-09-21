@@ -1,4 +1,6 @@
-## Hi there 👋
+# **Hi There, I'm *Kheren*!** 👋💕
+
+## I am a Computer Science student who seeks to learn as much as I can about programming languages, application development, software engineering, and what working in this field looks like overall. I am also an artist in my free time, and I like to explore in what ways I can combine my interests and make them work together.
 
 <!--
 **gonzalkn-jpg/gonzalkn-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
