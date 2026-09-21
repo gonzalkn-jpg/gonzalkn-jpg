@@ -28,6 +28,7 @@
 ### 📜 I have a soft spot for history, whether it is biblical, mythological, philosophical, or world history. Learning the history of Computer Science certainly made me more fascinated by it!
 ### ☕ I drink coffee like my life depends on it.
 
+
 <!--
 **gonzalkn-jpg/gonzalkn-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
