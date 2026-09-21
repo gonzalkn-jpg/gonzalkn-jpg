@@ -13,6 +13,12 @@
 ### - Currently studying Modern Technologies, Software Engineering, and Principles of Cryptography
 ### - Building a Time Management HTML for a Senior project
 
+## 📫 **Want to Reach Me? Here's How!**
+### **College Email:** *gonzalkn@grace.edu*
+### **Personal Email:** *kherenngonzalezc@hotmail.com*
+### **Personal Email 2:** *kherenngcsharp2004@gmail.com*
+### **Portfolio:** [Work in progress!]
+
 <!--
 **gonzalkn-jpg/gonzalkn-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
