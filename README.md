@@ -1,4 +1,6 @@
 # **Hi There, I'm *Kheren*!** 👋💕
+<!-- This better not break the whole thing -->
+![](https://komarev.com/ghpvc/?username=gonzalkn-jpg&color=blueviolet)
 
 ## I am a Computer Science student who seeks to learn as much as I can about programming languages, application development, software engineering, and what working in this field looks like in general. I am also an artist in my free time, and I like to explore in what ways I can combine my interests and make them work together.
 
@@ -25,9 +27,6 @@
 ### 🎨 My artistic interests include visual arts--especially digital art, music, singing, choreography, theatrical performance, voice acting, and story-writing.
 ### 📜 I have a soft spot for history, whether it is biblical, mythological, philosophical, or world history. Learning the history of Computer Science certainly made me more fascinated by it!
 ### ☕ I drink coffee like my life depends on it.
-
-<!-- This better not break the whole thing -->
-![](https://komarev.com/ghpvc/?username=gonzalkn-jpg&color=blueviolet)
 
 <!--
 **gonzalkn-jpg/gonzalkn-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
