@@ -8,6 +8,11 @@
 ### - **Looking Forward to Learn:** More advanced programming using Python, JavaScript, C++, SQL; team work and independent work in software development
 ### - **In-person Skills:** Independent learning, observational skills, peer assistance skills, fluent in English and Spanish
 
+## 🌱 **Current Learning Goals & Projects**
+### - Studying to get a degree in Computer Science
+### - Currently studying Modern Technologies, Software Engineering, and Principles of Cryptography
+### - Building a Time Management HTML for a Senior project
+
 <!--
 **gonzalkn-jpg/gonzalkn-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
